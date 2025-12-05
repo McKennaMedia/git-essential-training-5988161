@@ -1,1 +1,1 @@
-This is content
+This is content. I added more content and wanted to stage this file, commit, and push more content for pratice.
