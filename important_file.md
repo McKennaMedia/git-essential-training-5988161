@@ -6,3 +6,4 @@ this is a test file used to try and
 5: move the file into a folder.
 6:do a new commit
 7: revert the file to the previous commit
+adding the extra line now
